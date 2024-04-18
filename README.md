@@ -1,2 +1,2 @@
-# POWERSHELL
+# its POWERSHELL
 Its a scripting language.
